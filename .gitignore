@@ -167,6 +167,7 @@ cython_debug/
 *.json
 *.parquet
 data/*
+*_store/*
 
 # Model
 model/*
