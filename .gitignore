@@ -169,6 +169,9 @@ cython_debug/
 data/*
 *_store/*
 *data*/*
+*/*_store/*
+*/*data*/*
+
 
 # Model
 model/*
